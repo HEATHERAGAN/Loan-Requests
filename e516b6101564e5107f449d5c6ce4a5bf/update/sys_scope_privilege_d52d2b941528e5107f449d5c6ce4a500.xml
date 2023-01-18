@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Loan Request">e516b6101564e5107f449d5c6ce4a5bf</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 20:31:21</sys_created_on>
+        <sys_id>d52d2b941528e5107f449d5c6ce4a500</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScopedGlideElement</sys_name>
+        <sys_package display_value="Loan Request" source="x_cdltd_loan_reque">e516b6101564e5107f449d5c6ce4a5bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loan Request">e516b6101564e5107f449d5c6ce4a5bf</sys_scope>
+        <sys_update_name>sys_scope_privilege_d52d2b941528e5107f449d5c6ce4a500</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-18 20:31:21</sys_updated_on>
+        <target_name>ScopedGlideElement</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
