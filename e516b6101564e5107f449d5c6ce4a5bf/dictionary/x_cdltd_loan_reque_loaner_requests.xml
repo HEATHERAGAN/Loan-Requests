@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Loaner Requests" max_length="40" name="x_cdltd_loan_reque_loaner_requests" type="collection">
+    <element extends="task" label="Loaner Requests" max_length="40" name="x_cdltd_loan_reque_loaner_requests" sizeclass="4" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Additional Comments" max_length="40" name="additional_comments" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="sc" label="Depot" max_length="40" name="depot" type="string">
             <choice>
